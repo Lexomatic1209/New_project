@@ -1,4 +1,4 @@
-Web App Feed Generator di Alessio Casula.
+Web App Feed Generator.
 La app genera un file Atom ricavando il codice necessario da qualsiasi Url
 gli venga sottoposto.
 Per modificare l'url posizionarsi su App\Providers\AppServiceProviders e 
